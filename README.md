@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Zach Zeng</h1>
-<p align="center"> M.S. Computer Science student at the University of Florida<br> Building software, data, and machine learning systems </p>
+<p align="center"> M.S. Computer Science student at the University of Florida</p>
 <p align="center"> <a href="https://www.zachzengcodes.com/">Portfolio</a> · <a href="https://www.linkedin.com/in/zzeng-uf">LinkedIn</a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
 
@@ -9,7 +9,7 @@
 - 🎓 I am pursuing an M.S. in Computer Science at the University of Florida.
 - 🔬 I am currently studying chain-of-thought performance in large language models.
 - 🔭 I am building [LockedIn](https://github.com/Fritozz-105/LockedIn), a mobile health and fitness tracking application.
-- 💡 I am interested in software engineering, data systems, machine learning systems, and applied AI.
+- 💡 I am interested in software engineering, data engineering, machine learning, and applied AI.
 
 
 ## Featured Work
